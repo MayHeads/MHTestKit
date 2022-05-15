@@ -1,0 +1,6 @@
+framework module MHTestKit {
+  umbrella header "MHTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
