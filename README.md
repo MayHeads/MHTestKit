@@ -15,6 +15,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 MHTestKit is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
+I recommand you install this MHTestKit use pod, you can give some issures if you find some fatal error thus i am very happy with you.
 
 ```ruby
 pod 'MHTestKit'
